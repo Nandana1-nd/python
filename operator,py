@@ -1,0 +1,52 @@
+# Arithamatic operator
+a=10
+b=5
+# print(a+b)
+# print(a-b)
+# print(a/b)
+# print(a%b)
+
+# Assigment operator
+# a=2
+# a=5
+ # printa=a+5
+ # printa=a-5
+ # printa=a*=5
+ # a%=5
+ # a**=5
+ # print(a)
+
+# a=2
+# b=5
+# print(a==5)
+# print(a/=5)
+# print(a>b)
+# print(a<b)
+
+#  Logical operator
+a=True
+b=False
+# print(a and b)
+# print(a or b)
+# print(not b)
+
+# a=[1,2,3]
+# print(1 in a)
+# print(1 not in a)
+
+# a=[1,2,3]
+# b=a
+# print(a==b)
+# print(a is b)
+# print(a is not b)
+
+a=2
+a=5
+a+=5
+a-=5
+a/=5
+a%=5
+a*=5
+
+
+
